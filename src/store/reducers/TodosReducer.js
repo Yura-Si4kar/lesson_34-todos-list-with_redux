@@ -4,22 +4,22 @@ const initialValue = {
     list: [
         {
             id: 1,
-            title: 'Yura',
+            title: 'do something',
             isDone: true,
         },
         {
             id: 2,
-            title: 'Olga',
+            title: 'No!',
             isDone: false,
         },
         {    
             id: 3,
-            title: 'Ruslan',
+            title: 'Why?',
             isDone: true,
         },
         {
             id: 4,
-            title: 'Artem',
+            title: 'I dont know...',
             isDone: false,
         }
     ]
